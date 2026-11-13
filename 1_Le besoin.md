@@ -1,4 +1,4 @@
-# Le besoin de l'utilisateur
+# Le besoin
 
 L'entreprise XYZ souhiate informatiser son activité.
 
