@@ -4,7 +4,7 @@ L'agence immobilière XYZ souhaite informatiser son activité.
 
 Elle décide de se doter d'un logiciel qui fonctionnera comme suit :
 
-Un propriétaire de bien immobilier confie son logement à l'agence immobilière.
+Un propriétaire (particulier ou entreprise) de bien immobilier confie son logement à l'agence immobilière.
 
 L'agent immobilier crée un compte pour le propriétaire; puis enregistre son logement dans l'applicatif.
 
