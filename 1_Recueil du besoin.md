@@ -1,6 +1,6 @@
 # Le Recueil du besoin
 
-L'entreprise XYZ souhiate informatiser son activité.
+L'agence immobilière XYZ souhaite informatiser son activité.
 
 Elle décide de se doter d'un logiciel qui fonctionnera comme suit :
 
