@@ -3,7 +3,3 @@
 ### 1. Le Recueil du besoin
 ### 2. Le cahier des charges fonctionnel
 ### 3. La formalisation du besoin
-
-<head>
-  <link rel="icon" type="image/png" href="mon-icone.png">
-</head>
