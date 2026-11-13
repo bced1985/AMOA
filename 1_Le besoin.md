@@ -1,6 +1,7 @@
 # Le besoin de l'utilisateur
 
 L'entreprise XYZ souhiate informatiser son activité.
+
 Elle décide de se doter d'un logiciel qui fonctionnera comme suit :
 
 Un propriétaire de bien immobilier confie son logement à l'agence immobilière.
