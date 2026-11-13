@@ -1,4 +1,4 @@
-# Le besoin
+# Le Recueil du besoin
 
 L'entreprise XYZ souhiate informatiser son activité.
 
