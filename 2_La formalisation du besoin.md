@@ -17,6 +17,6 @@ Un particulier peut confier plusieurs biens immobiliers à l'agence immobilière
 
 Un bien immobliier ne peut appartenir qu'à un seul propriétaire.
 
-Un propriétaire particulier doit être majeur (avoir plus de 18 ans)
+Un propriétaire particulier doit être majeur (avoir plus de 18 ans).
 
-L'identifiant doit être unique
+L'identifiant doit être unique.
