@@ -1,6 +1,8 @@
 # Spécifications Fonctionnelles Détaillées
 
-Diagramme des cas d'utilisation
+Modèle de base de données : Merise
+
+Diagramme des cas d'utilisation UML
 
 Diagramme de process et flux BPMN
 
