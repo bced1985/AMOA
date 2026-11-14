@@ -1,1 +1,0 @@
-# Spécification Fonctionnelles Générales
